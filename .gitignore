@@ -1,0 +1,6 @@
+# .gitignore --- Configures files to ignore from this Git repository.
+
+# --------------------
+# Generated Files
+# --------------------
+*.elc
